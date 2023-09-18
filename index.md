@@ -14,6 +14,7 @@ Previously, I graduated from Tsinghua University with Bachelor in Electronic Eng
 - Tsinghua University (2013 - 2017), BSc in Electronic Engineering
 
 ### Work Experience
+- Huawei, London (2023.8 - )
 - Mila (2019.12 - 2020.3), advised by Prof. [Jian Tang](https://jian-tang.com/)
 - University of Freiburg (2019.7 - 2019.9), advised by Prof. [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/)
 

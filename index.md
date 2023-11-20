@@ -19,6 +19,11 @@ Previously, I graduated from Tsinghua University with Bachelor in Electronic Eng
 - University of Freiburg (2019.7 - 2019.9), advised by Prof. [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/)
 
 ### Publications
+- **Recurrent Hypernetworks are Surprisingly Strong in Meta-RL**  
+*NeurIPS 2023*  
+Jacob Beck, Risto Vuorio, **Zheng Xiong**, Shimon Whiteson  
+[Paper](https://arxiv.org/abs/2309.14970)
+
 - **Universal Morphology Control via Contextual Modulation**  
 *ICML 2023*  
 **Zheng Xiong**, Jacob Beck, Shimon Whiteson  

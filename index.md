@@ -24,7 +24,7 @@ Previously, I graduated from Tsinghua University with Bachelor in Electronic Eng
 
 ### Publications
 - **Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning**  
-Filippos Christianos, Georgios Papoudakis, Matthieu Zimmer, Thomas Coste, Zhihao Wu, Jingxuan Chen, Khyati Khandelwal, James Doran, Xidong Feng, Jiacheng Liu, **Zheng Xiong**, Yicheng Luo, Jianye Hao, Kun Shao, Haitham Bou-Ammar, Jun Wang  
+Filippos Christianos\*, Georgios Papoudakis\*, Matthieu Zimmer, Thomas Coste, Zhihao Wu, Jingxuan Chen, Khyati Khandelwal, James Doran, Xidong Feng, Jiacheng Liu, **Zheng Xiong**, Yicheng Luo, Jianye Hao, Kun Shao, Haitham Bou-Ammar, Jun Wang  
 [Paper](https://arxiv.org/abs/2312.14878)
 
 - **Recurrent Hypernetworks are Surprisingly Strong in Meta-RL**  
@@ -38,7 +38,7 @@ Jacob Beck, Risto Vuorio, **Zheng Xiong**, Shimon Whiteson
 [Paper](https://arxiv.org/abs/2302.11070) / [Code](https://github.com/MasterXiong/ModuMorph)
 
 - **A Survey of Meta-Reinforcement Learning**  
-Jacob Beck*, Risto Vuorio*, Evan Zheran Liu, **Zheng Xiong**, Luisa Zintgraf, Chelsea Finn, Shimon Whiteson  
+Jacob Beck\*, Risto Vuorio\*, Evan Zheran Liu, **Zheng Xiong**, Luisa Zintgraf, Chelsea Finn, Shimon Whiteson  
 [Paper](https://arxiv.org/pdf/2301.08028)
 
 - **On the practical consistency of meta-reinforcement learning algorithms**  

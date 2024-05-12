@@ -10,6 +10,8 @@ algorithm design.
 
 Previously, I graduated from Tsinghua University with Bachelor in Electronic Engineering and Master in Computer Science, working on automated machine learning with Prof. [Wenwu Zhu](https://www.cs.tsinghua.edu.cn/info/1116/3529.htm).
 
+**I'm graduating soon and looking for job opportunities. If you find my background a good fit, let's chat!**
+
 [Email](mailto:zheng.xiong@eng.ox.ac.uk) / [Google Scholar](https://scholar.google.com/citations?user=F5bted4AAAAJ&hl=en) / [Github](https://github.com/MasterXiong) / [Zhihu 知乎](https://www.zhihu.com/people/xiong-zheng-87-58)
 
 ### Education
@@ -23,6 +25,11 @@ Previously, I graduated from Tsinghua University with Bachelor in Electronic Eng
 - University of Freiburg (2019.7 - 2019.9), advised by Prof. [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/)
 
 ### Publications
+- **Distilling Morphology-Conditioned Hypernetworks for Efficient Universal Morphology Control**  
+*ICML 2024*  
+**Zheng Xiong**, Risto Vuorio, Jacob Beck, Matthieu Zimmer, Kun Shao, Shimon Whiteson  
+[paper](https://arxiv.org/abs/2402.06570)
+
 - **Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning**  
 Filippos Christianos\*, Georgios Papoudakis\*, Matthieu Zimmer, Thomas Coste, Zhihao Wu, Jingxuan Chen, Khyati Khandelwal, James Doran, Xidong Feng, Jiacheng Liu, **Zheng Xiong**, Yicheng Luo, Jianye Hao, Kun Shao, Haitham Bou-Ammar, Jun Wang  
 [Paper](https://arxiv.org/abs/2312.14878)

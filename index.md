@@ -3,10 +3,8 @@ title: 'Zheng Xiong (熊铮)'
 ---
 
 I am a DPhil student of [WhiRL](http://whirl.cs.ox.ac.uk/) at University of Oxford, advised by Prof. [Shimon Whiteson](http://whirl.cs.ox.ac.uk/pages/people/shimon.html). I’m also a member of [AIMS CDT](https://aims.robots.ox.ac.uk/).
-I’m generally interested in improving the efficiency and generalization of
-reinforcement learning (RL). Currently I mainly focus on meta-RL and multi-task RL
-to achieve this goal, with application in domains such as robotic control and automated
-algorithm design.
+I’m generally interested in improving the efficiency and generalization of reinforcement learning (RL) to make it more applicable in real world. 
+I mainly focus on meta-RL and multi-task RL to achieve this goal, with application in domains such as robotics and science.
 
 Previously, I graduated from Tsinghua University with Bachelor in Electronic Engineering and Master in Computer Science, working on automated machine learning with Prof. [Wenwu Zhu](https://www.cs.tsinghua.edu.cn/info/1116/3529.htm).
 
@@ -15,7 +13,7 @@ Previously, I graduated from Tsinghua University with Bachelor in Electronic Eng
 [Email](mailto:zheng.xiong@eng.ox.ac.uk) / [Google Scholar](https://scholar.google.com/citations?user=F5bted4AAAAJ&hl=en) / [Github](https://github.com/MasterXiong) / [Zhihu 知乎](https://www.zhihu.com/people/xiong-zheng-87-58)
 
 ### Education
-- University of Oxford (2020 - Expected 2024), DPhil in Computer Science, supervised by Prof. [Shimon Whiteson](http://whirl.cs.ox.ac.uk/)
+- University of Oxford (2020 - 2025), DPhil in Computer Science, supervised by Prof. [Shimon Whiteson](http://whirl.cs.ox.ac.uk/)
 - Tsinghua University (2017 - 2020), MSc in Computer Science, supervised by Prof. [Wenwu Zhu](https://www.cs.tsinghua.edu.cn/info/1116/3529.htm). 
 - Tsinghua University (2013 - 2017), BSc in Electronic Engineering
 
@@ -25,10 +23,14 @@ Previously, I graduated from Tsinghua University with Bachelor in Electronic Eng
 - University of Freiburg (2019.7 - 2019.9), advised by Prof. [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/)
 
 ### Publications
+- **Efficient Domain Adaptation of Robotic Foundation Models via Hypernetwork-Generated LoRA**  
+*NeurIPS 2024 AFM Workshop*  
+**Zheng Xiong\***, Siddhant Sharma\*, Kang Li, Risto Vuorio, Shimon Whiteson
+
 - **Distilling Morphology-Conditioned Hypernetworks for Efficient Universal Morphology Control**  
 *ICML 2024*  
 **Zheng Xiong**, Risto Vuorio, Jacob Beck, Matthieu Zimmer, Kun Shao, Shimon Whiteson  
-[paper](https://arxiv.org/abs/2402.06570)
+  [Paper](https://arxiv.org/abs/2402.06570)
 
 - **Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning**  
 Filippos Christianos\*, Georgios Papoudakis\*, Matthieu Zimmer, Thomas Coste, Zhihao Wu, Jingxuan Chen, Khyati Khandelwal, James Doran, Xidong Feng, Jiacheng Liu, **Zheng Xiong**, Yicheng Luo, Jianye Hao, Kun Shao, Haitham Bou-Ammar, Jun Wang  
